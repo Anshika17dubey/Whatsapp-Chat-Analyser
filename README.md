@@ -47,3 +47,10 @@ _(Replace `screenshot.png` with your actual screenshot image name)_
 git clone https://github.com/Anshika17dubey/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
 
+### Step 2: Install Dependencies  
+```bash
+pip install -r requirements.txt
+
+### Step 3: Run the Streamlit App  
+```bash
+streamlit run app.py
